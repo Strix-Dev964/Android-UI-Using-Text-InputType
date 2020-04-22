@@ -1,0 +1,9 @@
+<!--
+Created by Strix - http://strixdev.co.uk
+-->
+
+<resources>
+    <string name="app_name">Strix - UI - Using Text InputTypes</string>
+    <string name="labelPassword">Enter Your Password :</string>
+    <string name="btn_submit">Submit Password</string>
+</resources>
